@@ -38,7 +38,7 @@ Este script instala las siguientes herramientas, consideradas estándar en la in
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/AdrMXR/tools-phishing.git
+    https://github.com/Kuaker123/TareaRossemberg
     ```
 
 2.  **Navegar al directorio:**
@@ -48,10 +48,10 @@ Este script instala las siguientes herramientas, consideradas estándar en la in
 
 3.  **Ejecutar el script con privilegios de root:**
     ```bash
-    sudo python3 tools-phishing.py
+    sudo python3 AItool-Phishing.py
     ```
 
 ## Créditos
 
-- **Creador Original**: Adrian Guillermo
-- **Refactorización y Mejoras**: Gemini (Google AI)
+- **Creador**: Ulises Garcia
+- **Refactorización y Mejoras**: Gemini
