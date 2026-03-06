@@ -26,7 +26,7 @@ Este script instala las siguientes herramientas, consideradas estándar en la in
 - **AdvPhishing (Advanced)**: Herramienta avanzada con plantillas para capturar códigos OTP y evadir la autenticación de dos pasos (2FA).
 - **Modlishka (Reverse Proxy)**: Potente proxy inverso que permite interceptar sesiones en tiempo real y automatizar el bypass de 2FA.
 
-![Tool Menu](screenshot2.png)
+![Tool Menu](install.png)
 
 ## Compatibilidad
 
