@@ -48,7 +48,7 @@ Este script instala las siguientes herramientas, consideradas estándar en la in
 
 3.  **Ejecutar el script con privilegios de root:**
     ```bash
-    sudo python3 AItool-Phishing.py
+    sudo python3 AItool_Phishing.py
     ```
 
 ## Créditos
