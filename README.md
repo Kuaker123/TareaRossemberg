@@ -43,7 +43,7 @@ Este script instala las siguientes herramientas, consideradas estándar en la in
 
 2.  **Navegar al directorio:**
     ```bash
-    cd tools-phishing
+    cd TareaRossemberg
     ```
 
 3.  **Ejecutar el script con privilegios de root:**
