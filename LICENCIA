@@ -1,0 +1,50 @@
+Licencia Pública de Eclipse - v 2.0
+
+EL PROGRAMA ADJUNTO SE PROPORCIONA BAJO LOS TÉRMINOS DE ESTA LICENCIA PÚBLICA DE ECLIPSE («ACUERDO»). CUALQUIER USO, REPRODUCCIÓN O DISTRIBUCIÓN DEL PROGRAMA CONSTITUYE LA ACEPTACIÓN DE ESTE ACUERDO POR PARTE DEL RECEPTOR.
+
+1. DEFINICIONES
+
+«Contribución» significa:
+
+a) en el caso del Colaborador inicial, el contenido inicial
+Distribuido bajo este Acuerdo, y
+
+b) en el caso de cada Colaborador subsiguiente:
+
+i) cambios al Programa, y
+
+ii) adiciones al Programa;
+
+cuando dichos cambios o adiciones al Programa se originen y sean distribuidos por ese Colaborador en particular. Una Contribución
+
+«se origina de» un Colaborador si fue añadida al Programa por dicho Colaborador o por cualquier persona que actúe en su nombre. Las Contribuciones no incluyen cambios ni adiciones al Programa que no sean Obras Modificadas.
+
+"Colaborador" se refiere a cualquier persona o entidad que distribuya el Programa.
+
+"Patentes Licenciadas" se refiere a las reivindicaciones de patentes licenciables por un Colaborador que se infringen necesariamente por el uso o la venta de su Contribución, ya sea de forma individual o en combinación con el Programa.
+
+"Programa" se refiere a las Contribuciones Distribuidas de conformidad con este Acuerdo.
+
+"Destinatario" se refiere a cualquier persona que reciba el Programa en virtud de este Acuerdo o cualquier Sublicencia (según corresponda), incluidos los Colaboradores.
+
+"Obras Derivadas" se refiere a cualquier obra, ya sea en código fuente u otro formato, que se base en (o derive de) el Programa y cuyas revisiones editoriales, anotaciones, extensiones u otras modificaciones, en conjunto, constituyan una obra original de autoría.
+
+"Obras Modificadas" se refiere a cualquier obra en código fuente o en cualquier otro formato que resulte de añadir, eliminar o modificar el contenido del Programa, incluyendo, para mayor claridad, cualquier archivo nuevo en formato de código fuente que contenga contenido del Programa. Las Obras Modificadas no incluyen aquellas que contengan únicamente declaraciones, interfaces, tipos, clases, estructuras o archivos del Programa con el único fin de enlazar, enlazar por nombre o subclasificar el Programa o sus Obras Modificadas.
+
+"Distribuir" se refiere a los actos de (a) distribuir o (b) poner a disposición de cualquier manera que permita la transferencia de una copia.
+
+"Código Fuente" se refiere a la forma preferida de un Programa para realizar modificaciones, incluyendo, entre otros, el código fuente del software, la documentación fuente y los archivos de configuración.
+
+"Licencia Secundaria" se refiere a la Licencia Pública General de GNU, Versión 2.0, o cualquier versión posterior de dicha licencia, incluyendo cualquier excepción o permiso adicional identificado por el Colaborador original.
+
+2. CONCESIÓN DE DERECHOS
+
+a) De conformidad con los términos de este Acuerdo, cada Colaborador otorga al Receptor una licencia de derechos de autor no exclusiva, mundial y libre de regalías para reproducir, preparar Obras Derivadas, exhibir públicamente, ejecutar públicamente, distribuir y sublicenciar la Contribución de dicho Colaborador, si la hubiera, y dichas Obras Derivadas.
+
+b) De conformidad con los términos de este Acuerdo, cada Colaborador otorga al Receptor una licencia de patente no exclusiva, mundial y libre de regalías, en virtud de las Patentes Licenciadas, para crear, usar, vender, ofrecer para la venta, importar y transferir de cualquier otra forma la Contribución de dicho Colaborador, si la hubiera, en Código Fuente u otro formato. Esta licencia de patente se aplicará a la combinación de la Contribución y el Programa si, al momento en que el Colaborador añade la Contribución, dicha adición hace que dicha combinación esté cubierta por las Patentes Licenciadas. La licencia de patente no se aplicará a ninguna otra combinación que incluya la Contribución. Ningún hardware en sí mismo está licenciado en virtud del presente.
+
+(c) El Receptor entiende que, si bien cada Colaborador otorga las licencias para sus Contribuciones aquí establecidas, ningún Colaborador garantiza que el Programa no infrinja las patentes ni otros derechos de propiedad intelectual de ninguna otra entidad.
+
+Cada Colaborador se exime de cualquier responsabilidad ante el Receptor por reclamaciones interpuestas por cualquier otra entidad basadas en la infracción de derechos de propiedad intelectual o de cualquier otro derecho. Como condición para ejercer los derechos y licencias otorgados en virtud del presente, cada Receptor asume la responsabilidad exclusiva de obtener cualquier otro derecho de propiedad intelectual necesario, si lo hubiera. Por ejemplo, si se requiere una licencia de patente de un tercero para que el Receptor distribuya el Programa, es responsabilidad del Receptor obtener dicha licencia antes de distribuirlo.
+
+(d) Cada Colaborador declara que, a su leal saber y entender, posee suficientes derechos de autor sobre su Contribución, si los hubiera, para otorgar la licencia.
