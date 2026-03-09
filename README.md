@@ -1,5 +1,7 @@
 # AITool-Phishing (Edición de Alto Poder)
 
+lo que
+
 **AITool-Phishing** es un script de Python 3 que automatiza la instalación de las herramientas más potentes y modernas para auditorías de seguridad y simulaciones de phishing. Este proyecto ha sido completamente refactorizado para ser más seguro, robusto y fácil de usar, enfocado en un uso ético y educativo.
 
 ![Matrix Animation](screenshot1.png)
